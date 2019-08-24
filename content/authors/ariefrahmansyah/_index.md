@@ -69,7 +69,7 @@ user_groups:
 
 <!--- Biography --->
 
-Arief Rahmansyah was researching Natural Language Processing and Information Retrieval in AIRLab.
+Arief Rahmansyah was researching Natural Language Processing and Information Retrieval at AIRLab.
 He conducted a student exchange program to Kasetsart University, Thailand to complete his thesis on Question Answering System.
 He received his Bachelor in Computer Science from Sriwijaya University in 2015.
 
