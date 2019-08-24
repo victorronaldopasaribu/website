@@ -21,19 +21,21 @@ organizations:
 bio: Lecturer at Sriwijaya University
 
 interests:
-- Artificial Intelligence
+- Image Processing
+- Computer Vision
+- Computer Graphics
 
 education:
   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-  - course: BSc in Computer Science
-    institution: Sriwijaya University
-    # year: 2005
+  - course: PhD Candidate in Biomedical Engineering, School of Biomedical Engineering and Health Science
+    institution: Faculty of Engineering, Universiti Teknologi Malaysia
+    year: 2014 - Now
+  - course: S2 Teknik Elektro
+    institution: Sekolah Tinggi Elektro dan Informatika, Institut Teknologi Bandung
+    year: 2011 - 2013
+  - course: S1 Teknik Informatika
+    institution: Fakultas Ilmu Komputer, Sriwijaya University
+    year: 2005 - 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

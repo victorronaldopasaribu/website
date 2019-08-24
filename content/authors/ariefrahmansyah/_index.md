@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Science
+  - course: Bachelor in Computer Science
     institution: Sriwijaya University
     year: 2011 - 2015
   - course: Computer Science (Student Exchange Program)
