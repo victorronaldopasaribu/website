@@ -2,12 +2,12 @@
 # Display name
 name: Dr. Abdiansah, S.Kom., M.Cs.
 
+# To be displayed on the document's title that it shown in browser's title bar
+title: Dr. Abdiansah, S.Kom., M.Cs.
+
 # Username (this should match the folder name)
 authors:
 - abdiansah
-
-# Is this the primary user of the site?
-superuser: true
 
 # Role/position
 role: Lecturer at Sriwijaya University
@@ -67,4 +67,5 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Advisors
+
 ---

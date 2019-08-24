@@ -2,12 +2,12 @@
 # Display name
 name: M. Qurhanul Rizqie, S.Kom., M.T, Ph.D (Candidate)
 
+# To be displayed on the document's title that it shown in browser's title bar
+title: M. Qurhanul Rizqie, S.Kom., M.T, Ph.D (Candidate)
+
 # Username (this should match the folder name)
 authors:
 - qurhanul
-
-# Is this the primary user of the site?
-superuser: true
 
 # Role/position
 role: Lecturer at Sriwijaya University
@@ -67,4 +67,5 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Advisors
+
 ---

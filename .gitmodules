@@ -1,13 +1,7 @@
-[submodule "themes/academic"]
-	path = themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = git@github.com:airlab-id/airlab-id.github.io.git
+	url = git@github.com:airlab-unsri/airlab-unsri.github.io.git
 	branch = master
-[submodule "themes/academic-kickstart"]
-	path = themes/academic-kickstart
-	url = https://github.com/sourcethemes/academic-kickstart.git
 [submodule "themes/hugo-academic"]
 	path = themes/hugo-academic
 	url = https://github.com/gcushen/hugo-academic.git

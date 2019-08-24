@@ -2,7 +2,7 @@
 
 This repository contains both the content and the static-site generator code for the AIRLab website.
 
-A rendered website will be automatically pushed to [airlab-id.github.io](https://github.com/airlab-id/airlab-id.github.io).
+A rendered website will be automatically pushed to [airlab-unsri.github.io](https://github.com/airlab-unsri/airlab-unsri.github.io).
 
 ## Prerequisites
 

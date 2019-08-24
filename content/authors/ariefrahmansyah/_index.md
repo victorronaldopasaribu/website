@@ -2,15 +2,15 @@
 # Display name
 name: Arief Rahmansyah
 
+# To be displayed on the document's title that it shown in browser's title bar
+title: Arief Rahmansyah
+
 # Username (this should match the folder name)
 authors:
 - ariefrahmansyah
 
-# Is this the primary user of the site?
-superuser: true
-
 # Role/position
-role: Software Engineer
+role: Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.gojek.com/sg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Engineer
+bio: Machine Learning Engineer
 
 interests:
 - Distributed Computing
@@ -64,8 +64,15 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
+
 ---
 
 <!--- Biography --->
 
-Software engineer at Gojek Singapore.
+Arief Rahmansyah was researching Natural Language Processing and Information Retrieval in AIRLab.
+He conducted a student exchange program to Kasetsart University, Thailand to complete his thesis on Question Answering System.
+He received his Bachelor in Computer Science from Sriwijaya University in 2015.
+
+After graduated, he joined Tokopedia as Software Engineer in Payment team.
+
+He is currently a Machine Learning Engineer in Data Science Platform Team at Gojek Singapore.
