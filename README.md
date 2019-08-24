@@ -4,10 +4,37 @@ This repository contains both the content and the static-site generator code for
 
 A rendered website will be automatically pushed to [airlab-unsri.github.io](https://github.com/airlab-unsri/airlab-unsri.github.io).
 
-## Prerequisites
+## Getting Started
+
+### Prerequisites
 
 1. Install Git -- [see here](https://help.github.com/en/articles/set-up-git).
 1. Install Hugo -- [see here](https://gohugo.io/getting-started/installing/).
+
+### Installation
+
+1. Clone this repository
+
+    ```bash
+    git clone git@github.com:airlab-unsri/website.git
+    ```
+
+1. Initialize git submodule
+
+    ```bash
+    cd website
+    make init
+    ```
+
+### Serving
+
+To run a local server that displays the generated site, run:
+
+```bash
+make serve
+```
+
+You should now be able to view the generated site at <http://localhost:1313/>.
 
 ## Building
 
@@ -18,16 +45,6 @@ make build
 ```
 
 The resulting static site will be stored in the `public` directory.
-
-## Development Server
-
-To run a local server that displays the generated site, run:
-
-```bash
-make serve
-```
-
-You should now be able to view the generated site at <http://localhost:1313/>.
 
 ## Deployment
 
