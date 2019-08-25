@@ -9,7 +9,7 @@ A rendered website will be automatically pushed to [airlab-unsri.github.io](http
 ### Prerequisites
 
 1. Install Git -- [see here](https://help.github.com/en/articles/set-up-git).
-1. Install Hugo -- [see here](https://gohugo.io/getting-started/installing/).
+1. Install Hugo extended version -- [see here](https://gohugo.io/getting-started/installing/).
 
 ### Installation
 

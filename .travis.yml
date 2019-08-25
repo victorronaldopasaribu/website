@@ -12,5 +12,7 @@ deploy:
   skip_cleanup: true
   local_dir: ./public
   repo: airlab-unsri/airlab-unsri.github.io
+  target_branch: master
+  verbose: true
   on:
     branch: master
