@@ -1,7 +1,3 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:airlab-unsri/airlab-unsri.github.io.git
-	branch = master
 [submodule "themes/hugo-academic"]
 	path = themes/hugo-academic
 	url = https://github.com/gcushen/hugo-academic.git
