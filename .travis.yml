@@ -10,7 +10,7 @@ deploy:
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
   skip_cleanup: true
-  local_dir: public
+  local_dir: ./public
   repo: airlab-unsri/airlab-unsri.github.io
   on:
     branch: master
