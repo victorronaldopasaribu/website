@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "airlab.unsri@gmail.com"
 phone = ""
 address = "Gedung C, Lantai 3, Fakultas Ilmu Komputer, Universitas Sriwijaya, Jln. Palembang-Prabumulih, Kec. Indralaya Utara, Kab. Ogan Ilir, Prov. Sumatera Selatan, Indonesia"
 

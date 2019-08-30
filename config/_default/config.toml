@@ -16,7 +16,7 @@ baseurl = "https://airlab-unsri.github.io/"
 copyright = "&copy; {year} AIRLab Unsri"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "G-SQEBW69F4T"
 
 ############################
 ## Advanced options below ##
