@@ -39,7 +39,7 @@ user_groups:
 <!--- Biography --->
 
 Satria was researching Natural Language Processing and Information Retrieval at AIRLab.
-He received his Bachelor in Computer Science from Sriwijaya University in 2013.
+He received his Bachelor in Computer Science from Sriwijaya University in 2014.
 
 Career History:
 
