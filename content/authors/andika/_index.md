@@ -10,12 +10,12 @@ authors:
 - permana
 
 # Role/position
-role: Developer Manager
+role: VP of Product and Development
 
 # Organizations/Affiliations
 organizations:
-- name: PT Access Mobile Indonesia
-  url: "http://www.access-mobile.com/"
+- name: PT Bahasa Kita
+  url: "http://www.bahasakita.co.id/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Fullstack Engineer
@@ -72,7 +72,8 @@ He received his Bachelor in Computer Science from Sriwijaya University in 2013.
 
 Career History:
 
-- Manager Developer at PT Access Mobile Indonesia (Jakarta, 2016 - Current)
+- Vice President of Product and Development at PT Bahasa Kita (Jakarta, 2019 - Current)
+- Manager Developer at PT Access Mobile Indonesia (Jakarta, 2016 - 2019)
 - Software Engineer at PT Aksivitama (GCI) (Jakarta, 2016)
 - Senior Developer at PT Bahasa Kinerja Utama (Jakarta, 2014 - 2016)
 - Programmer at PT. Bahasa Identitas Nusantara (Jakarta, 2013 - 2014)
