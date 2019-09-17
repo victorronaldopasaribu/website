@@ -62,5 +62,5 @@ Travis CI builds and deploys the changes on the master branch to the main site a
 ### Adding New People
 
 1. Create new folder for new user in `content/authors/`. E.g: `content/authors/newuser/`.
-1. Go to new created folder and add new `_index.md` and new avatar picture.
+1. Go to new created folder, then add new `_index.md` and new avatar picture (.jpg or .png format).
 1. Fill the information on `_index.md`.
