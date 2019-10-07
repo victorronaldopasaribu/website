@@ -77,5 +77,8 @@ Career History:
 - Supervisor Area Marketing at PT. HM Sampoerna Tbk (Makassar, 2016)
 - Programmer at PT. Koperasi Telekomunikasi Selular (Palembang, 2013)
 
+You can ask me about:
+Vue.js, Node.js, Express.js, Java, MySQL, PostgreSQL, Redis, Android Development, Game Development
+
 
 
