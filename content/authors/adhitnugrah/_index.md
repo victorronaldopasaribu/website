@@ -74,3 +74,5 @@ He received his Bachelor in Computer Science from Sriwijaya University in 2016.
 After graduated, he join Telkomsel Palembang as Web Programmer (outsource) over one year.
 
 He is currently working in BPJS Ketenagakerjaan, Jakarta as Web Programmer.
+
+In creating websites he can use PHP, CodeIgniter, Node.js, Express.js. Now he is learning vue js.
