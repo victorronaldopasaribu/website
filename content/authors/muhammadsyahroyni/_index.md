@@ -10,15 +10,15 @@ authors:
 - muhammadsyahroyni
 
 # Role/position
-role: System Engineer
+role: iOS Developer
 
 # Organizations/Affiliations
 organizations:
-- name: Alcatel-Lucent Enterprise
-  url: "https://www.al-enterprise.com/en"
+- name: DANA Indonesia
+  url: "https://dana.id"
 
 # Short bio (displayed in user profile at end of posts)
-bio: System Engineer
+bio: iOS Developer
 
 interests:
 - Mobile Engineering
