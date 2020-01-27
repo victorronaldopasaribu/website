@@ -32,7 +32,7 @@ education:
     year: 2017 - now
   - course: Bachelor in Computer Science (Student Exchange Program)
     institution: Kebangsaan Malaysia University
-    year: Juli 2019 - Agustus 2019
+    year: July 2019 - August 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
